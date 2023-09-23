@@ -21,7 +21,7 @@ pub use bar::Bar;
 pub use box_plot::BoxPlot;
 pub use candlestick::Candlestick;
 pub use contour::Contour;
-pub use density_mapbox::DensityMapbox;
+pub use density_mapbox::{AnimatedDensityMapbox, DensityMapbox};
 pub use heat_map::HeatMap;
 pub use histogram::Histogram;
 pub use mesh3d::Mesh3D;
